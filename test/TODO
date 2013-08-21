@@ -1,0 +1,10 @@
+Assignment 5b:
+	1) we are reserving space for EXP_VARS also which is not required because they are removed from the program
+	//done , added check of exp_var_flag in sym_list's assign offset function
+	2) space before some instructions
+	// done (a extra colon was printed with bne), run diff with -w
+
+Assignment 5b done!
+checked all the test cases of 2b
+there are little difference which are fine :)
+not yet submitted yet :P

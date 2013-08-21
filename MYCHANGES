@@ -1,0 +1,22 @@
+100050015 - Aman Mangal
+100050016 - Amit Panghal
+
+parse.yy
+-------------------------------------------------------------
+1) functions corresponding to proper handling of exp var are 
+   added which were not included during assignment 2 implementation
+-------------------------------------------------------------
+
+ast-compile
+-------------------------------------------------------------
+1) compile function are written for if-goto-else-goto and
+   goto ast's are added 
+2) corresponding lra functionalities are also added
+-------------------------------------------------------------
+
+icode*.*
+-------------------------------------------------------------
+1) control-flow classes are added; 
+2) lra is working
+-------------------------------------------------------------
+
